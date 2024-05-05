@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.leaflet-container {
+  width: 100%; /* Set the width to 100% */
+  height: 70vh; /* Set the height to 70% of the viewport height */
+  max-height: 500px; /* Optionally, set a maximum height to prevent the map from becoming too large on taller screens */
+}
+
