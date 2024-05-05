@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+![Screenshot 2024-05-05 234446](https://github.com/Akshhhh2211/Contact-Manager/assets/103826762/3daeab8d-dcd7-43b1-aead-5e14e603d98b)
+![Screenshot 2024-05-05 234346](https://github.com/Akshhhh2211/Contact-Manager/assets/103826762/8e799fef-04a9-4c56-9fbc-49dc1e648933)
+![WhatsApp Image 2024-05-05 at 11 47 51 PM](https://github.com/Akshhhh2211/Contact-Manager/assets/103826762/17147358-4c03-487d-93a1-f79a0f26679d)
+![WhatsApp Image 2024-05-05 at 11 47 51 PM (1)](https://github.com/Akshhhh2211/Contact-Manager/assets/103826762/19dba3e2-e0b2-4a6c-aff1-ecc6420dca7c)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -38,6 +42,8 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+
 
 ## Learn More
 
