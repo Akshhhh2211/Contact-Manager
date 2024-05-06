@@ -1,9 +1,15 @@
-**PC BROWSER**
+**WEB Link**
+
+https://contactmanager2211.netlify.app/
+
+**PC BROWSER Screenshot**
 
 ![Screenshot 2024-05-05 234446](https://github.com/Akshhhh2211/PCContact-Manager/assets/103826762/3daeab8d-dcd7-43b1-aead-5e14e603d98b)
 ![Screenshot 2024-05-05 234346](https://github.com/Akshhhh2211/Contact-Manager/assets/103826762/8e799fef-04a9-4c56-9fbc-49dc1e648933)
 
-**Mobile Browser**
+**Mobile Browser Screenshot**
+
+(Set to DESKTOP SITE if layout gets disoriented in mobile web version)
 
 ![WhatsApp Image 2024-05-05 at 11 47 51 PM](https://github.com/Akshhhh2211/Contact-Manager/assets/103826762/17147358-4c03-487d-93a1-f79a0f26679d)
 ![WhatsApp Image 2024-05-05 at 11 47 51 PM (1)](https://github.com/Akshhhh2211/Contact-Manager/assets/103826762/19dba3e2-e0b2-4a6c-aff1-ecc6420dca7c)
